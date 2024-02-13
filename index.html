@@ -1,7 +1,7 @@
-<html manifest="Islam Fayed.cache">
+<html manifest="Elmo7tarf.cache">
     
 <head>
-    <title>Islam Fayed GoldHEN Host</title>
+    <title>Elmo7tarf GoldHEN Host</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body 
